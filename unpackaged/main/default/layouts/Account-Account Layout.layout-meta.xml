@@ -29,7 +29,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>gearset_test_date__c</field>
+                <field>IsTestField__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
