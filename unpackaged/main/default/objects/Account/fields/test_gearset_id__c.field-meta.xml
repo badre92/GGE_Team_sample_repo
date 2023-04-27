@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>test_gearset_id__c</fullName>
+    <description>test gearset id to be deleted</description>
+    <externalId>false</externalId>
+    <label>test gearset id</label>
+    <type>AutoNumber</type>
+</CustomField>
